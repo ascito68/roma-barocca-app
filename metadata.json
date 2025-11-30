@@ -1,0 +1,7 @@
+{
+  "name": "Roma Barocca Explorer",
+  "description": "Pianificatore interattivo di itinerari nella Roma Barocca con guida IA, mappe e ottimizzazione dei percorsi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
